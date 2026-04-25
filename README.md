@@ -3,3 +3,4 @@ picture2.java:https://github.com/Akshata0001/Hostel-Management-System/blob/Hoste
 picture3.java:https://github.com/Akshata0001/Hostel-Management-System/blob/main/picture3.png
 picture4.java:https://github.com/Akshata0001/Hostel-Management-System/blob/HostelManagementSystem/picture4.png
 picture5.java:https://github.com/Akshata0001/Hostel-Management-System/blob/HostelManagementSystem/picture5.png
+picture6.java:https://github.com/Akshata0001/Hostel-Management-System/blob/HostelManagementSystem/picture6.png
